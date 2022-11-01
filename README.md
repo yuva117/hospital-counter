@@ -1,7 +1,7 @@
 # hospital-counter
 This is my final project
 # Azure 
-# project demo URL 
+# project demo URL https://delightful-wave-069a80900.2.azurestaticapps.net/
 # github repository 
 # video URL 
 ![github repository](https://user-images.githubusercontent.com/112409854/199233297-d69f48bd-7823-4fd8-a0fd-4ead80e3216f.png)
